@@ -8,6 +8,6 @@ export const useCurrentUser = () => {
     queryFn: () => graphqlClient.request(getCurrentUserQuery),
     staleTime: 20000,
   });
-
   return { ...query, user: query.data?.getCurrentUser };
 };
+
