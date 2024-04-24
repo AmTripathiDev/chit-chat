@@ -1,7 +1,5 @@
 # chit-chat(social-media-platform)
 
-# chit-chat
-
 This is a social-media-platform clone project, where users are eager to engage with the content they like, and not only reshare it but add their thoughts on the matter as well. I have tried to build some functionalities Like feed, authorization, UI, Create Post with image, follow, unfollow. I will add more functionalities. 
 
 
