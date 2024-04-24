@@ -1,8 +1,8 @@
-# clone-of-twitter-frontend
+# chit-chat(social-media-platform)
 
-# Twitter
+# chit-chat
 
-This is a twitter clone project. Twitter is a very famous conversational social platform where users are eager to engage with the content they like, and not only reshare it but add their thoughts on the matter as well. I have tried to build some functionalities Like feed, authorization, UI, Create Post with image, follow, unfollow. I will add more functionalities. 
+This is a social-media-platform clone project, where users are eager to engage with the content they like, and not only reshare it but add their thoughts on the matter as well. I have tried to build some functionalities Like feed, authorization, UI, Create Post with image, follow, unfollow. I will add more functionalities. 
 
 
 
@@ -51,8 +51,8 @@ This is a twitter clone project. Twitter is a very famous conversational social 
 Clone this Repository
 
 ```bash
-  git clone https://github.com/AmTripathiDev/twitter-clone-frontend.git
-  cd twitter-clone-frontend
+  git clone https://github.com/AmTripathiDev/chit-chat.git
+  cd chit-chat
   npm install
   npm start
 ```
